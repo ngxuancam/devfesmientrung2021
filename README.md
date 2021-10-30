@@ -1,6 +1,7 @@
 # devfesmientrung2021
+# Nền tảng lưu trữ hợp đồng trực tuyến sử dụng Công nghệ Blockchain
 
  
- - Link Google Slide: https://www.canva.com/design/DAEt8WvfwVU/NJvt0fli-0HX5g9ZOHJWjA/edit
- - Link Document: https://docs.google.com/document/d/1K-ZEKRnoebyI_l9vgNlXHrO-0oV5EEg-HWomf9n-Nig/edit
- - Link Sequence Diagram: https://drive.google.com/file/d/1FQQzwSpLeeV3ZDQ8MQhMlXMRY8P39fzR/view?usp=sharing
+ - Link Google Slide: https://docs.google.com/presentation/d/1qdsyrjT9VrAA6eBbcRs4zME1fQNZPSZnlnj9DexPKNY/edit?usp=sharing
+ - Link Diagram: https://drive.google.com/file/d/1FQQzwSpLeeV3ZDQ8MQhMlXMRY8P39fzR/view?usp=sharing
+ - Link video: 
